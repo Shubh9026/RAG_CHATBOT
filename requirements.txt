@@ -9,3 +9,7 @@ openai
 huggingface_hub
 InstructorEmbedding
 sentence-transformers
+fastapi
+langgraph
+uvicorn
+streamlit
